@@ -10,7 +10,6 @@ export default function Home() {
       </Head>
 
       <header className={styles.header}>
-        <img src="/profile.jpg" alt="Ваше Имя" className={styles.profileImage} />
         <h1 className={styles.name}>Горник Мария</h1>
         <h2 className={styles.contact}>Контактные данные</h2>
         <p>Email: beyordscene@gmail.com</p>
