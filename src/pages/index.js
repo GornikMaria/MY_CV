@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <header className={styles.header}>
-        <h1 className={styles.name}>Горник Мария!</h1>
+        <h1 className={styles.name}>!Горник Мария!</h1>
         <h2 className={styles.contact}>Контактные данные</h2>
         <p>Email: beyordscene@gmail.com</p>
         <a href="mailto:beyordscene@gmail.com" className={styles.contactButton}>Написать мне</a>
